@@ -85,8 +85,12 @@ This helps you identify closed DM partners using meaningful patterns such as:
 More advanced filtering (like further fetching information for each user) could be added, but there are no plans to do so as of now (feel free to modify to do so, as it is open-sourced).
 
 ###### Donate to Support my work
-- BTC: bc1ql2s7zk55r9ekafr39wrwtvnsjxynhlwjzd7qpp  
+- BTC: bc1ql2s7zk55r9ekafr39wrwtvnsjxynhlwjzd7qpp
 - LTC: LKoseEiENqnYo9qpgVMWGUoXDQhYaDqz8X  
 - ETH: 0xf124225bb66acba45bDC5b89511Cc10044b5214D
 
 and thanks to chatgpt for generating this <3
+
+<!--  
+tags: discord, discord dm, discord closed dm, discord user lookup, discord id finder, discord cache, discord localStorage, discord affinity, discord tool, discord js, discord forgot, discord message finder, discord friends, discord blocked, discord closed, discord closed channel, discord closed threads
+-->
