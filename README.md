@@ -7,7 +7,7 @@ This tool helps you recover that information using Discord’s local affinity ca
 
 ## Notes
 - This tool is **CLI-based** and currently has no plans for a GUI version.  
-- It does **not** include features to further narrow down users.  
+- It does **not** include features to help further narrow down users.  
 - The project is **open source** — feel free to modify or extend it.
 
 ---
