@@ -86,7 +86,7 @@ This helps you identify closed DM partners using meaningful patterns such as:
 - Frequent conversation  
 - Frequent VC activity
 
-More advanced filtering (like further fetching information for each user) could be added, but there are no plans to do so as of now (feel free to modify to do so, as it is open-sourced).
+Additional filtering — such as fetching more information for each interacted user to better narrow searches — is possible but not currently planned. The project is open source for modification.  
 
 ###### Donate to Support my work
 - BTC: bc1ql2s7zk55r9ekafr39wrwtvnsjxynhlwjzd7qpp
