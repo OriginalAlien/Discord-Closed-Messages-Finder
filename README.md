@@ -30,7 +30,7 @@ This tool helps you recover that information using Discord’s local affinity ca
      *People you recently messaged.*
 
    Lists are sorted **best match first**.  
-   (Example: `mostLikelyToVc_uidQueryFormat` shows the most frequent VC partner at the top.)
+   (Example: `mostLikelyToVc_uidQueryFormat` shows the most frequent VC partner at the top and least frequent at the bottom.)
 
 6. Copy the list of user ids and paste it into Discord to mention/display each user and try to search for them.
 
