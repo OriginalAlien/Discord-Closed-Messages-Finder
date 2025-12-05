@@ -1,12 +1,12 @@
 # Discord-Closed-Channels-Finder
 
-Closed a DM with a long-forgotten friend and can’t remember their username or user ID?  
+Closed a DM with a long-forgotten friend and can’t remember their username or user ID or blocked them?  
 This tool helps you recover that information using Discord’s local affinity cache.
 
 ---
 
 ## Notes
-- This tool is **CLI-based** and currently has no plans for a GUI version.  
+- This tool is **Web based** and **CLI-based** and currently has no plans for a GUI version.  
 - It does **not** include features to help further narrow down users.  
 - The project is **open source** — feel free to modify or extend it.
 
