@@ -1,7 +1,7 @@
 # About
 
 Closed a DM with a long-forgotten friend and can’t remember their username or user ID or blocked them?  
-This tool helps you recover that information using Discord’s local affinity cache.
+This tool tries to helps you recover that information using Discord’s local affinity cache.
 
 ---
 
