@@ -17,7 +17,7 @@ This tool helps you recover that information using Discord’s local affinity ca
 1. Open **Discord in your web browser** and log in.  
 2. Press **`CTRL + SHIFT + I`** to open Developer Tools.  
 3. Navigate to the **Console** tab.  
-4. Paste the contents of **`closedDms_finder.js`** and press **Enter**.  
+4. Paste the contents of **`main.js`** and press **Enter**.  
 5. Type in one of the following variables into console to search for the person you’re looking for:
 
    - `mostLikelyToVc_uidQueryFormat`  
