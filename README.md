@@ -51,9 +51,9 @@ You can still look them up using online tools such as:
 
 If these tools don’t work, you can also:
 
-1. Ban the user in a server by user ID.  
+1. Ban the user in a server by user ID using `/ban` command.  
 2. Go to **Server Settings → Bans**.  
-3. The user profile will appear there.
+3. The user profile will appear there (right click on them).
 
 <img width="476" height="95" alt="image" src="https://github.com/user-attachments/assets/b2d9c37c-2630-413a-905f-79628301320f" />
 <img width="1134" height="983" alt="image" src="https://github.com/user-attachments/assets/c6b8a58b-d6cc-407b-8a41-03cda4affde6" />
